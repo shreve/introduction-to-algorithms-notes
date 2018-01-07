@@ -1,6 +1,6 @@
-## Chapter 1. Foundations
+# Chapter 1. Foundations
 
-### Definitions
+## Definitions
 
 **Algorithm**
 > A defined procedure, or list of computational steps, that takes 0 or more
@@ -11,7 +11,7 @@
 **Correct**
 > An algorithm is correct if for every input, it returns the correct output.
 
-### 1.1 Algorithms
+## 1.1 Algorithms
 
 An algorithm is a tool to solve a defined problem.
 
@@ -25,7 +25,7 @@ Instance of a problem: sort <3, 5, 1, 6, 2, 9> in increasing order
 There are many types of algorithms for a given problem, and the best one depends
 on the constraints of the instance of the problem you're trying to solve.
 
-#### NP-Complete Problems
+### NP-Complete Problems
 
 There is a subsection of problems classified as NP-complete. These problems are
 interesting because:
@@ -40,7 +40,7 @@ The best known example of NP-complete is "The traveling salesman problem", where
 the desired output is the most efficient route to traverse that yields the
 lowest overall distance, yet hits all desired stops.
 
-#### Exercises
+### Exercises
 
 **1.1-1** Give a real-world example that requires sorting or a real-world
 example that requires computing a convex hull.
