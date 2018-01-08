@@ -1,14 +1,17 @@
-# Chapter 1. Foundations
+Chapter 1. Foundations
+======================
 
 ## Definitions
 
 **Algorithm**
+
 > A defined procedure, or list of computational steps, that takes 0 or more
 > inputs and produces 1 or more outputs. It can be defined in English, a
 > programming language, or even as a hardcoded circuit as long as it's a
 > complete set of instructions.
 
 **Correct**
+
 > An algorithm is correct if for every input, it returns the correct output.
 
 ## 1.1 Algorithms
